@@ -42,11 +42,8 @@ The database consists of four tables:
 
 ## Setup
 1. Create and use the database:
-```sql
-USE Station;
-```
 2. Create tables using the provided schema.
-3. Populate the tables with sample data.
+3. Then populate the tables with sample data.
 
 ## Usage
 - **Query Stations:** List available stations.
