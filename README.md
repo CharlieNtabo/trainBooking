@@ -1,5 +1,5 @@
 # trainBooking
-## ERD DIAGRAM
+
 ## Overview
 This project implements a train booking system with SQL database tables for managing stations, passengers, bookings, and schedules.
 
@@ -58,5 +58,6 @@ USE Station;
 - Run the `ALTER` and `INSERT` commands after creating the tables.
 - Adjust the `TIMESTAMP` and `VARCHAR` fields according to the use case.
 
+Here is a representation of the database schema:<img width="959" alt="ERD diagram" src="https://github.com/user-attachments/assets/9ddf0454-2713-4ae4-8705-1c79d0a8c484" />
 
 [train booking.docx](https://github.com/user-attachments/files/18378218/train.booking.docx)
